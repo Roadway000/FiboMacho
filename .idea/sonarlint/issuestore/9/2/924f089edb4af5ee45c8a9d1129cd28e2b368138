@@ -1,0 +1,35 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(›­õ¬8Æ ¥ÀÛ1
+G	java:S106	"+Replace this use of System.out by a logger.(úÉèµ8É ¥ÀÛ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¿†Ö±ıÿÿÿÿ8Ë ¥ÀÛ1
+L	java:S106"+Replace this use of System.out by a logger.(¿†Ö±ıÿÿÿÿ8Ë ¥ÀÛ1
+G	java:S106"+Replace this use of System.out by a logger.(’ÉÚô8Ì ¥ÀÛ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(êĞò«şÿÿÿÿ8Î ¥ÀÛ1
+K
+java:S2440")Remove this instantiation of "Fibonacci".(Ì®Â³ùÿÿÿÿ8ô»ÀÁÛ1
+W
+java:S2209"5Change this instance-reference to a static reference.(ô¤£şÿÿÿÿ8÷»ÀÁÛ1
+F	java:S106"+Replace this use of System.out by a logger.(îé¶8Ò ¥ÀÛ1
+Q
+java:S2209"5Change this instance-reference to a static reference.(îé¶8ù»ÀÁÛ1
+G	java:S106"+Replace this use of System.out by a logger.(ï±¯8Ô ¥ÀÛ1
+L	java:S106#"+Replace this use of System.out by a logger.(úÅõüúÿÿÿÿ8Ö ¥ÀÛ1
+W
+java:S2209#"5Change this instance-reference to a static reference.(úÅõüúÿÿÿÿ8ü»ÀÁÛ1
+L	java:S106%"+Replace this use of System.out by a logger.(Ö—šşúÿÿÿÿ8× ¥ÀÛ1
+L	java:S106'"+Replace this use of System.out by a logger.(½ÀÀÍøÿÿÿÿ8Ø ¥ÀÛ1
+W
+java:S2209-"5Change this instance-reference to a static reference.(µè©«ÿÿÿÿÿ8€¼ÀÁÛ1
+F	java:S106/"+Replace this use of System.out by a logger.(ò„…8Ú ¥ÀÛ1
+Q
+java:S2209/"5Change this instance-reference to a static reference.(ò„…8‚¼ÀÁÛ1
+G	java:S1062"+Replace this use of System.out by a logger.(ÈÜşŒ8Ü ¥ÀÛ1
+R
+java:S22097"5Change this instance-reference to a static reference.(Ø´Ë‚8…¼ÀÁÛ1
+L	java:S1069"+Replace this use of System.out by a logger.(ò¨Ñ‰ÿÿÿÿÿ8ß ¥ÀÛ1
+W
+java:S22099"5Change this instance-reference to a static reference.(ò¨Ñ‰ÿÿÿÿÿ8‡¼ÀÁÛ1
+L	java:S106<"+Replace this use of System.out by a logger.(Ší©œÿÿÿÿÿ8à ¥ÀÛ1
