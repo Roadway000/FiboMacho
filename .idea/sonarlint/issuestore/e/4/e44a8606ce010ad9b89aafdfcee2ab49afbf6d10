@@ -1,0 +1,19 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(›­õ¬8Æ ¥ÀÛ1
+G	java:S106"+Replace this use of System.out by a logger.(úÉèµ8É ¥ÀÛ1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¿†Ö±ýÿÿÿÿ8Ë ¥ÀÛ1
+L	java:S106"+Replace this use of System.out by a logger.(¿†Ö±ýÿÿÿÿ8Ë ¥ÀÛ1
+G	java:S106"+Replace this use of System.out by a logger.(’ÉÚô8Ì ¥ÀÛ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(êÐò«þÿÿÿÿ8Î ¥ÀÛ1
+F	java:S106"+Replace this use of System.out by a logger.(îé¶8Ò ¥ÀÛ1
+G	java:S106 "+Replace this use of System.out by a logger.(ï±¯8Ô ¥ÀÛ1
+L	java:S106%"+Replace this use of System.out by a logger.(úÅõüúÿÿÿÿ8Ö ¥ÀÛ1
+L	java:S106'"+Replace this use of System.out by a logger.(Ö—šþúÿÿÿÿ8× ¥ÀÛ1
+L	java:S106)"+Replace this use of System.out by a logger.(½ÀÀÍøÿÿÿÿ8Ø ¥ÀÛ1
+F	java:S1061"+Replace this use of System.out by a logger.(ò„…8Ú ¥ÀÛ1
+G	java:S1064"+Replace this use of System.out by a logger.(ÈÜþŒ8Ü ¥ÀÛ1
+L	java:S106;"+Replace this use of System.out by a logger.(ò¨Ñ‰ÿÿÿÿÿ8ß ¥ÀÛ1
+L	java:S106>"+Replace this use of System.out by a logger.(Ší©œÿÿÿÿÿ8à ¥ÀÛ1
